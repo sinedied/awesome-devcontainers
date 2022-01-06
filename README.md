@@ -45,12 +45,13 @@
 
 - [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers) - Visual Studio Code Remote Containers official documentation.
 - [Your open source project needs a devcontainer. Here is why](https://www.aaron-powell.com/posts/2021-03-08-your-open-source-project-needs-a-dev-container-heres-why/) - Devcontainers are awesome, we can use them to define an isolated development environment within Docker that has all that we need, and only what we need, installed in it.
-- [Instantly set up a new dev environment using containers and VS Code](https://dev.to/itnext/instantly-set-up-a-new-dev-environment-using-containers-and-vs-code-51g8) - Discover how to get started in seconds on a new project, isolate all your dev environments and share them with your teammates using VS Code dev containers.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Videos
 
 - [GitHub Codespaces - A Game Changer](https://www.youtube.com/watch?v=B_gtLXvDQhE) - In this demo Alvaro Videla made the RabbitMQ tutorials "Codespaces ready" and ran them directly from the browser without the need to install RabbitMQ or Node.js.
+- [Remote Development with Visual Studio Code](https://www.youtube.com/watch?v=sakjpegUQsk) - In this session, Brigit Murtaugh will demo how to use the VS Code Remote extensions to connect to remote environments and build and deploy applications using the same, familiar Visual Studio Code you already know locally.
+- [A clean dev env, working every time, everywhere](https://www.youtube.com/watch?v=NNrq2641zTA) - In this session, Yohan Lasorsa will demo how to isolate each of your projects' environment, and share it with your teammates to quickly onboard newcomers.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
